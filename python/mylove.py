@@ -1,0 +1,2 @@
+print("so far as life is consult there are menty thing in my heart about but life is struggle and struggle is life ");
+print("my dear friend i would like to say to you i am vinay kumar belong to bihar district of saran and police ststion is mashrakh ,village baharauli and moe i am doing b tech from anna university my hobby is p0laying batminter and i want to be an engineer it is my short intro thats all about about me thanks to all for hear me");
